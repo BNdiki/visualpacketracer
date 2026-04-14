@@ -55,3 +55,6 @@ The script prints the KML content to stdout. Redirect it to a .kml file, then im
 
 Sample Output
 The generated KML draws line connections from your source IP location to every unique destination IP found in the packet capture — visualizing your network's outbound traffic footprint.
+
+Privacy Note
+The source IP address used in this project has been redacted from the public repository. Never commit real IP addresses, credentials, or sensitive network data to public repositories.
