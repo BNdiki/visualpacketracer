@@ -1,0 +1,4 @@
+GeoLiteCity.dat
+   *.pcap
+   __pycache__/
+   *.pyc
