@@ -16,11 +16,18 @@ Google My Maps KML visualization
 PROJECT STRUCTURE
 NetworkTracker/
 ├── main.py                 # Core script
-├── output.pcap      # Sample packet capture (Wireshark)
+├── output.pcap      # Not included — see note below Sample packet capture (Wireshark)
 ├── GeoLiteCity.dat         # MaxMind GeoIP legacy database
 ├── networktrack2.kml              # Generated KML file
 └── README.md
-
+ **PCAP File:** The packet capture file is not included in this 
+repository as it may contain sensitive network data. To run this 
+project, supply your own `.pcap` file captured via Wireshark and 
+update the filename in `main.py` accordingly:
+> ```python
+> f = open('your_capture.pcap', 'rb')
+> ```
+> 
 SETUP & INSTALLATION
 1. Clone the repository
 git clone https://github.com/BNdiki/visualpacketracer.git
