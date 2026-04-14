@@ -16,7 +16,7 @@ Google My Maps KML visualization
 PROJECT STRUCTURE
 NetworkTracker/
 ├── main.py                 # Core script
-├── networktrack2.pcap      # Sample packet capture (Wireshark)
+├── output.pcap      # Sample packet capture (Wireshark)
 ├── GeoLiteCity.dat         # MaxMind GeoIP legacy database
 ├── networktrack2.kml              # Generated KML file
 └── README.md
