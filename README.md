@@ -11,7 +11,7 @@ dpkt   PCAP file parsing
 pygeoip IP geolocation via GeoLiteCity.dat
 socket  IP address decoding
 Wireshark Network packet capture
-Google My Maps KML visualization
+Google Maps KML visualization
 
 PROJECT STRUCTURE
 NetworkTracker/
