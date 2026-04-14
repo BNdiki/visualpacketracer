@@ -18,7 +18,7 @@ NetworkTracker/
 ├── main.py                 # Core script
 ├── output.pcap      # Not included — see note below Sample packet capture (Wireshark)
 ├── GeoLiteCity.dat         # MaxMind GeoIP legacy database
-├── networktrack2.kml              # Generated KML file
+├── KML_Samples2.kml              # Generated KML file
 └── README.md
  **PCAP File:** The packet capture file is not included in this 
 repository as it may contain sensitive network data. To run this 
