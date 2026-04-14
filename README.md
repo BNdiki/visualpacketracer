@@ -58,3 +58,6 @@ The generated KML draws line connections from your source IP location to every u
 
 Privacy Note
 The source IP address used in this project has been redacted from the public repository. Never commit real IP addresses, credentials, or sensitive network data to public repositories.
+
+Disclaimer
+This tool is intended for educational and authorized network analysis purposes only. Always ensure you have permission before capturing or analyzing network traffic. Unauthorized packet capture may violate local laws.
